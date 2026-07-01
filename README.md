@@ -1,4 +1,4 @@
 # My-PYTHON-PROGRAMS
 FOR HANDS ON PRACTISE OF CODING OF PYTHON 
 <br>
-Author -Vaibhav
+Author -Vaibhav Pandey
